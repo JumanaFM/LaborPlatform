@@ -1,0 +1,138 @@
+[
+  {
+    "Nationality": "Saudi",
+    "Gender": "M",
+    "Domain":{"General Employee": 303898,
+    "Education": 230911,
+    "Health": 64014,
+    "Faculty": 19687,
+    "Judges": 1737,
+    "Public Prosecution": 2316,
+    "Diplomats": 976,
+    "Job with special payroll": 33935,
+    "Technical and Vocational Training": 6652,
+    "Support (Janitors, guards, delivery etc.)": 39545},
+    "Sector":"Civil"
+  },
+  {
+    "Nationality": "Saudi",
+    "Gender": "F",
+    "Domain":{"General Employee": 124516,
+    "Education": 270584,
+    "Health": 44755,
+    "Faculty": 18482,
+    "Judges": 0,
+    "Public Prosecution": 0,
+    "Diplomats": 87,
+    "Job with special payroll": 547,
+    "Technical and Vocational Training": 668,
+    "Support (Janitors, guards, delivery etc.)": 14514},
+    "Sector":"Civil"
+  },
+  {
+    "Nationality": "Non-Saudi",
+    "Gender": "M",
+    "Domain":{"General Employee": 569,
+    "Education": 2908,
+    "Health": 18461,
+    "Faculty": 10946,
+    "Judges": 0,
+    "Public Prosecution": 0,
+    "Diplomats": 0,
+    "Job with special payroll": 91,
+    "Technical and Vocational Training": 839,
+    "Support (Janitors, guards, delivery etc.)": 81},
+    "Sector":"Civil"
+  },
+  {
+    "Nationality": "Non-Saudi",
+    "Gender": "F",
+    "Domain":{"General Employee": 77,
+    "Education": 416,
+    "Health": 27936,
+    "Faculty": 4618,
+    "Judges": 0,
+    "Public Prosecution": 0,
+    "Diplomats": 0,
+    "Job with special payroll": 0,
+    "Technical and Vocational Training": 42,
+    "Support (Janitors, guards, delivery etc.)": 3},
+    "Sector":"Civil"
+  },
+        
+    {
+    "Nationality": "Saudi",
+    "Gender": "M",
+    "Domain":{
+        "Lawmakers, Directors and business Managers":	109296,
+        "Specialists in Professional, Technical and Humanitarian Fields":	103419,
+        "Technicians in Professional, Technical and Humanitarian Fields":	128426,
+        "Occupations of Clerical":	302885,
+        "Occupations of Sales":	120155,
+        "Occupations of Services":	312080,
+        "Occupations of Agriculture, Animal Husbandry & Fishing":	3765,
+        "Occupations of Industrial , Chemical Operations and Food Industries": 	23868,
+        "Occupations of Supporting Basic Engineering": 	199679,
+        "Other Occuption":	29979
+    },
+    "Sector":"Private"
+  },
+    
+
+    {
+    "Nationality": "Saudi",
+    "Gender": "F",
+    "Domain":{
+        "Lawmakers, Directors and business Managers":	42738,
+        "Specialists in Professional, Technical and Humanitarian Fields":	47222,
+        "Technicians in Professional, Technical and Humanitarian Fields":	71643,
+        "Occupations of Clerical":	214587,
+        "Occupations of Sales":	104031,
+        "Occupations of Services":	49904,
+        "Occupations of Agriculture, Animal Husbandry & Fishing":	565,
+        "Occupations of Industrial , Chemical Operations and Food Industries": 	7279,
+        "Occupations of Supporting Basic Engineering": 	17824,
+        "Other Occuption":	964
+    },
+    "Sector":"Private"
+  },
+    
+    
+
+        {
+    "Nationality": "Non-Saudi",
+    "Gender": "M",
+    "Domain":{
+        "Lawmakers, Directors and business Managers":	65582,
+        "Specialists in Professional, Technical and Humanitarian Fields":	277774,
+        "Technicians in Professional, Technical and Humanitarian Fields":	459081,
+        "Occupations of Clerical":	74097,
+        "Occupations of Sales":	297584,
+        "Occupations of Services":	3860995,
+        "Occupations of Agriculture, Animal Husbandry & Fishing":	94668,
+        "Occupations of Industrial , Chemical Operations and Food Industries": 	183789,
+        "Occupations of Supporting Basic Engineering": 	2464526,
+        "Other Occuption":	226109
+    },
+    "Sector":"Private"
+  },
+    
+
+        {
+    "Nationality": "Non-Saudi",
+    "Gender": "F",
+    "Domain":{
+        "Lawmakers, Directors and business Managers":	2057,
+        "Specialists in Professional, Technical and Humanitarian Fields":	22934,
+        "Technicians in Professional, Technical and Humanitarian Fields":	54285,
+        "Occupations of Clerical":	8650,
+        "Occupations of Sales":	7281,
+        "Occupations of Services":	96861,
+        "Occupations of Agriculture, Animal Husbandry & Fishing":	102,
+        "Occupations of Industrial , Chemical Operations and Food Industries": 	6503,
+        "Occupations of Supporting Basic Engineering": 	2742,
+        "Other Occuption":	5227
+    },
+    "Sector":"Private"
+  }
+]
