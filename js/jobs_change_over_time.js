@@ -11,7 +11,7 @@
                             }
                             var datafile = loadJSON('jobsOverTime.json');
 console.log(datafile)
-      
+
 
     // instantiate d3plus
     var visualization = d3plus.viz()
@@ -19,9 +19,9 @@ console.log(datafile)
       .data(datafile)  // data to use with the visualization
       .type("scatter")   // visualization type
       .id("ID")         // key for which our data is unique on
-      .x("Salary")      // sizing of blocks
+      .x({"value":"Salary", "scale":"log"})      // sizing of blocks
    // .color("medianPrice")
-     .y("Start Date") 
+     .y("Start Date")
     .labels({"align": "center", "valign": "top","resize":false,"Font":{"size":12}})
     .font({"size":12 })
     .size(3)
@@ -41,9 +41,9 @@ console.log(datafile)
                                     "method": "color",
                                     "value": ["Nationality", "Gender"]
                                 }])
-    
+
      .tooltip(["Nationality", "Gender"])
     .x({"grid": false})
      .y({"grid": false})
-      .draw();  
+      .draw();
       // finally, draw the visualization!

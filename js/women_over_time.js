@@ -11,18 +11,18 @@
                             }
                             var datafile = loadJSON('jobsOverTime.json');
 console.log(datafile)
-      
+
 
     // instantiate d3plus
     var visualization = d3plus.viz()
-      .container("#viz3")  
-      .data(datafile)  
-      .type("line")  
-      .id("ID")         
-      .x("Salary")     
+      .container("#viz3")
+      .data(datafile)
+      .type("line")
+      .id("ID")
+      .x({"value":"Salary", "scale":"log"})
    // .color("medianPrice")
-  .color({ "mute" : "Male" })
-     .y("Start Date") 
+    .color({ "mute" : "Male" })
+     .y("Start Date")
     .labels({"align": "center", "valign": "top","resize":false,"Font":{"size":12}})
     .font({"size":12 })
     .size(3)
@@ -35,5 +35,4 @@ console.log(datafile)
         .tooltip(["Nationality", "Gender"])
     .x({"grid": false})
      .y({"grid": false})
-      .draw();  
-   
+      .draw();
